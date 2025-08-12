@@ -30,11 +30,9 @@
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik2344&theme=tokyonight&layout=compact)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erik2344&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=erik2344&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=erik2344&show_icons=true&theme=tokyonight)
 </div>
 
 
