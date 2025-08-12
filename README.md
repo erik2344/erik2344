@@ -13,17 +13,23 @@
 </a>
 
 ## :computer: Technologies I Love
-- JavaScript
-- CSS
-- HTML
-- SQL(basic)
-- Nodejs (learning)
-- React(lerning)
-- Frontend Development
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Programming Languages
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width='40'><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width='40'><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="40"><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg" width="40">
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg" width="40"><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" width="40"><img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="40">
+## frameworks
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+	![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+ ## Database
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erik2344&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
